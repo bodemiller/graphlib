@@ -12,7 +12,6 @@ public class GraphTest {
 
     @Test
     public void vertexBuildTest(){
-        Collections.<Integer>emptyList();
         var vertexId = 1;
         Vertex vertex = Vertex.builder().id(vertexId).build();
         Assert.assertEquals(vertexId, vertex.getId());
