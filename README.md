@@ -31,7 +31,7 @@ Vertex vertex = Vertex.builder().id(1).build();
 ```
 
 
-**graphlib** supports two type of graphs based on edges orientation: directed and undirected.\
+**graphlib** supports two types of graphs based on edges orientation: directed and undirected.\
 Graphs creation examples:
 
  ```java
@@ -63,7 +63,7 @@ traverse(Function<Vertex<T>, R> function)
 
 ```
 
-Usega example:
+Usage example:
 
 ```java
 
