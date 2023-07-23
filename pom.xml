@@ -10,7 +10,7 @@
 
     <properties>
         <project.lombok.version>1.18.12</project.lombok.version>
-        <project.junit.version>4.13</project.junit.version>
+        <project.junit.version>4.13.1</project.junit.version>
     </properties>
 
     <dependencies>
